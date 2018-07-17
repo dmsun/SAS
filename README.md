@@ -1,2 +1,2 @@
 # SAS
-This Repository will useful contain pieces of SAS code
+This Repository contains SAS code which may be handy
